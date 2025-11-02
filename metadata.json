@@ -1,0 +1,7 @@
+{
+  "name": "Copy of White Glove CRM",
+  "description": "A comprehensive CRM for roofing professionals to manage real estate leads, track team performance, and schedule communications. Features include lead import via Excel, detailed analytics, a communication calendar, and team management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
